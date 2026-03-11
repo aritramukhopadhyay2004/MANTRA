@@ -1,0 +1,58 @@
+/* ── Design Tokens ─────────────────────────────────────────────────────────── */
+
+:root {
+  /* Core background levels */
+  --bg-base:    #0d0d0d;
+  --bg-surface: #111111;
+  --bg-raised:  #141414;
+  --bg-overlay: #181818;
+
+  /* Borders */
+  --border-subtle:  #181818;
+  --border-default: #1e1e1e;
+  --border-strong:  #242424;
+  --border-muted:   #2a2a2a;
+
+  /* Text */
+  --text-primary:   #cccccc;
+  --text-secondary: #888888;
+  --text-muted:     #484848;
+  --text-faint:     #383838;
+  --text-deep:      #2e2e2e;
+
+  /* Brand */
+  --brand:          #FF6B35;
+  --brand-dim:      rgba(255, 107, 53, 0.07);
+  --brand-border:   rgba(255, 107, 53, 0.2);
+  --brand-glow:     rgba(255, 107, 53, 0.05);
+
+  /* Status */
+  --success:        #4ECDC4;
+  --success-dim:    rgba(78, 205, 196, 0.07);
+  --success-border: rgba(78, 205, 196, 0.2);
+
+  --danger:         #ef4444;
+  --danger-dim:     rgba(239, 68, 68, 0.07);
+  --danger-border:  rgba(239, 68, 68, 0.18);
+
+  /* Typography */
+  --font-mono:      'Share Tech Mono', monospace;
+  --font-condensed: 'Barlow Condensed', sans-serif;
+  --font-body:      'Barlow', sans-serif;
+
+  /* Spacing */
+  --sp-xs:  4px;
+  --sp-sm:  8px;
+  --sp-md:  12px;
+  --sp-lg:  16px;
+  --sp-xl:  24px;
+  --sp-2xl: 32px;
+
+  /* Radius */
+  --r-sm: 2px;
+  --r-md: 3px;
+  --r-lg: 4px;
+
+  /* Transitions */
+  --transition: all 0.15s ease;
+}

@@ -1,0 +1,58 @@
+export const DOMAINS = [
+  {
+    id: "assembly",
+    label: "Assembly",
+    icon: "⚙️",
+    color: "#FF6B35",
+    hint: "IKEA build, electronics kit, furniture...",
+  },
+  {
+    id: "cooking",
+    label: "Cooking",
+    icon: "🔥",
+    color: "#FFB347",
+    hint: "Recipe, meal prep, baking...",
+  },
+  {
+    id: "study",
+    label: "Study",
+    icon: "📐",
+    color: "#4ECDC4",
+    hint: "Exam prep, learn a topic, research...",
+  },
+  {
+    id: "fitness",
+    label: "Fitness",
+    icon: "⚡",
+    color: "#45B7D1",
+    hint: "Workout plan, training routine...",
+  },
+  {
+    id: "coding",
+    label: "Coding",
+    icon: "⌨️",
+    color: "#96CEB4",
+    hint: "Build a feature, debug, deploy...",
+  },
+  {
+    id: "creative",
+    label: "Creative",
+    icon: "◈",
+    color: "#DDA0DD",
+    hint: "Art project, design, music...",
+  },
+  {
+    id: "repair",
+    label: "Repair",
+    icon: "🔩",
+    color: "#F7DC6F",
+    hint: "Fix appliance, patch wall, plumbing...",
+  },
+  {
+    id: "business",
+    label: "Business",
+    icon: "▣",
+    color: "#85C1E9",
+    hint: "Launch plan, strategy, report...",
+  },
+];
